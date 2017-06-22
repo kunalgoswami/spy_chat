@@ -2,7 +2,13 @@ from spy_details import spy, Spy, ChatMessage, friends
 from steganography.steganography import Steganography
 from datetime import datetime
 
-STATUS_MESSAGES = ['My name is Kunal, Kunal Goswami', 'Shaken, i am not terrorist.', 'simon go back.']
+
+
+
+
+
+
+STATUS_MESSAGES = ['My name is himanshu, gujjar boy', 'tu ka dar leve.', 'chl ekad ko.']
 
 
 print "Hello! Let\'s get started"
