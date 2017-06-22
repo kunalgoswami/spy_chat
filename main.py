@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 
-STATUS_MESSAGES = ['My name is himanshu, gujjar boy', 'tu ka dar leve.', 'chl ekad ko.']
+STATUS_MESSAGES = ['My name is kunal, kunal goswami', 'tu ka dar leve.', 'chl ekad ko.']
 
 
 print "Hello! Let\'s get started"
